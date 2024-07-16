@@ -1,7 +1,12 @@
+<div align="center">
+
 ### Hi there 👋, Emir Faruk SARI
+
 #### Software Developer
+
 ![Software Developer](https://gcdnb.pbrd.co/images/rvh05Nxh4eVi.png?o=1)
 
+</div>
 ---
 
 As a Computer Engineering student at Uludağ University, I have developed a diverse skill set through hands-on projects and competitions. My experience spans desktop application development using C#, robotic coding with ROS, Python, and OpenCV, as well as web development with HTML and CSS. I have also delved into Java and Android Studio for mobile application development.

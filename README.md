@@ -1,6 +1,6 @@
 ### Hi there 👋, Emir Faruk SARI
 #### Software Developer
-![Software Developer](https://as2.ftcdn.net/v2/jpg/02/11/08/57/1000_F_211085701_jMjRuq9kEhy3397P7ESXlCaCLLEwt6CT.jpg)
+![Software Developer](https://ibb.co/5kzLcYz)
 
 ---
 

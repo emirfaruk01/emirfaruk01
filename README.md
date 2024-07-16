@@ -39,7 +39,6 @@ I am passionate about continuous learning and eager to contribute to innovative 
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emirfaruk01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirfaruk01&layout=compact&theme=radical)
 
 ---
 
@@ -57,8 +56,6 @@ I am passionate about continuous learning and eager to contribute to innovative 
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile!+%F0%9F%98%83;I+am+a+passionate+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-
 
 <!-- GitHub snake animation -->
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)

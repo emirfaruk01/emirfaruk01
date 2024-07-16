@@ -1,9 +1,6 @@
 <div align="center">
 
-### Hi there 👋, Emir Faruk SARI
-
-#### Software Developer
-
+### Hi there, I'm Emir
 ![Software Developer](https://gcdnb.pbrd.co/images/rvh05Nxh4eVi.png?o=1)
 
 </div>

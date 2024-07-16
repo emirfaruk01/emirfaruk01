@@ -58,8 +58,7 @@ I am passionate about continuous learning and eager to contribute to innovative 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile!+%F0%9F%98%83;I+am+a+passionate+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- GitHub skyline animation -->
-![GitHub Skyline](https://github.com/emirfaruk01/2023)
+
 
 <!-- GitHub snake animation -->
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)

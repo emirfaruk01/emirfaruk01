@@ -1,9 +1,9 @@
 <div align="center">
 
 ## - Hi there, I'm Emir -
+
 ![Software Developer](https://gcdnb.pbrd.co/images/rvh05Nxh4eVi.png?o=1)
 
-</div>
 ---
 
 As a Computer Engineering student at Uludağ University, I have developed a diverse skill set through hands-on projects and competitions. My experience spans desktop application development using C#, robotic coding with ROS, Python, and OpenCV, as well as web development with HTML and CSS. I have also delved into Java and Android Studio for mobile application development.
@@ -58,7 +58,7 @@ I am passionate about continuous learning and eager to contribute to innovative 
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile!+%F0%9F%98%83;I+am+a+passionate+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <!-- GitHub snake animation -->
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+</div>

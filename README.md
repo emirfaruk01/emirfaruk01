@@ -2,8 +2,6 @@
 
 ## - Hi there, I'm Emir -
 
-![Software Developer](https://gcdnb.pbrd.co/images/rvh05Nxh4eVi.png?o=1)
-
 ---
 
  Computer Engineer | Robotics & Software Development Enthusiast

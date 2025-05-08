@@ -6,11 +6,28 @@
 
 ---
 
-As a Computer Engineering student at Uludağ University, I have developed a diverse skill set through hands-on projects and competitions. My experience spans desktop application development using C#, robotic coding with ROS, Python, and OpenCV, as well as web development with HTML and CSS. I have also delved into Java and Android Studio for mobile application development.
+ Computer Engineer | Robotics & Software Development Enthusiast
 
-One of my key areas of interest is autonomous vehicle technologies, where I have actively participated in competitions and projects, enhancing my skills in image processing and robotic systems. My portfolio includes a variety of projects, from Windows desktop applications to Android apps, showcasing my versatility and commitment to leveraging technology to solve real-world problems.
+Hey there! I’m Emir Faruk Sarı, a freshly graduated Computer Engineer from Uludağ University and currently working at Bosch Rexroth. Throughout my journey, I’ve evolved from a curious student to a hands-on developer tackling real-world challenges in industrial settings.
 
-I am passionate about continuous learning and eager to contribute to innovative projects in the fields of robotics, software development, AI, and autonomous systems.
+🚀 My experience spans across:
+
+🖥️ Desktop application development with C# and .NET
+
+🤖 Robotic systems using ROS, Python, and OpenCV
+
+🌐 Web development with HTML, CSS, Bootstrap, and Angular
+
+📱 Mobile development with Java and Android Studio
+
+🧠 AI & Image Processing for autonomous vehicles and smart systems
+
+I’ve been part of competitions and projects focused on autonomous vehicle tech, where I sharpened my skills in image processing, robot control, and algorithm design. At Bosch Rexroth, I contributed to the digital transformation efforts by developing internal software solutions and optimizing factory-level processes through custom tools.
+
+💡 I’m all about building impactful systems that blend intelligence with automation. I believe in lifelong learning, open collaboration, and the power of clean, scalable code.
+
+Let’s connect and build something awesome together!
+
 
 ---
 

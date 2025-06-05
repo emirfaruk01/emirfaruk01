@@ -6,7 +6,7 @@
 
  Computer Engineer | Robotics & Software Development Enthusiast
 
-Hey there! I’m Emir Faruk Sarı, a freshly graduated Computer Engineer from Uludağ University and currently working at Bosch Rexroth. Throughout my journey, I’ve evolved from a curious student to a hands-on developer tackling real-world challenges in industrial settings.
+Hey there! I’m Emir Faruk Sarı, a freshly graduated Computer Engineer from Uludağ University. Throughout my journey, I’ve evolved from a curious student to a hands-on developer tackling real-world challenges in industrial settings.
 
 🚀 My experience spans across:
 
